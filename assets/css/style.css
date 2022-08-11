@@ -5,6 +5,7 @@ body {
   box-sizing: border-box;
   background-color: #000 !important;
   overflow-x: hidden;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .animation:hover {
@@ -13,7 +14,7 @@ body {
 }
 
 .container {
-  height: 90vh;
+  height: 78vh;
   padding: 0px 70px;
   max-width: none;
   background: #000;
