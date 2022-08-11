@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-  height: 78vh;
+  height: 80vh;
   padding: 0px 70px;
   max-width: none;
   background: #000;
@@ -225,6 +225,7 @@ body {
   }
   .container {
     padding: 0px;
+    height: 78vh;
   }
   .container .row_index .sumiu {
     line-height: 1.2;
